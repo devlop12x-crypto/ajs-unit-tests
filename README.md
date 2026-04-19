@@ -1,0 +1,1 @@
+[![Node.js CI](https://github.com/devlop12x-crypto/ajs-unit-tests/actions/workflows/nodejs.yml/badge.svg)](https://github.com/devlop12x-crypto/ajs-unit-tests/actions/workflows/nodejs.yml)
